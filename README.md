@@ -72,7 +72,7 @@ User, Expenses, Products.
 Then we are required to create their services and controllers.
 Along with that the next step is to provide some of the validations on the fields of the model classes.
   
-  > [http://65.0.105.221:8080/swagger-ui/index.html](http://16.171.61.112:8080/swagger-ui/index.html#/)
+
   
   End points:
   
